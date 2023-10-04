@@ -1,5 +1,5 @@
 # Nand2Tetris-HebrewU
-Projects code for the course.
+Project code for the course.
 
 * Project 01: build several chips and logic gates.
 * Project 02: build ALU.
