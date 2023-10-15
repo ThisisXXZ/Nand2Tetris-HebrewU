@@ -157,8 +157,6 @@ public class Assembler {
 	}
 	
 	public static void main(String[] args) throws IOException {
-		if (args.length != 1)
-			throw new IllegalArgumentException();
 		String path = System.getProperty("user.dir");
 		Assembler assembler = new Assembler(path + "\\testfiles\\" + args[0] + ".asm");
 	}
